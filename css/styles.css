@@ -33,7 +33,7 @@ body {
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
-	margin-left: -1em;
+	margin-left: -1em; 
 }
 
 .biography-details li::before {
@@ -49,4 +49,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.fleur {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";  
+	color:burlywood; 
 }
